@@ -40,7 +40,7 @@ header .row {
   font-weight: 500;
   color: rgb(236, 241, 250);
   position: relative;
-  font-family: 'Lobster', cursive;
+  font-family: 'Lobster', serif;
 }
 
 .fixed .brand-name a {
