@@ -8,7 +8,7 @@ header {
 }
 
 .fixed {
-  background-color: rgb(236, 241, 250);
+  background-color: #000;
   position: fixed;
   border-color: #eee;
   animation: fixHeader 1s ease;
@@ -38,19 +38,19 @@ header .row {
 .brand-name a {
   font-size: 22px;
   font-weight: 500;
-  color: rgb(236, 241, 250);
+  color: #fff;
   position: relative;
   font-family: 'Lobster', serif;
 }
 
 .fixed .brand-name a {
-  color: #000;
+  color: #fff;
 }
 
 .hamburger .fa {
   font-size: 20px;
-  background-color: rgb(236, 241, 250);
-  color: #01143e;
+  background-color: #000;
+  color: #fff;
   display: none;
   height: 30px;
   width: 35px;
@@ -58,7 +58,7 @@ header .row {
   line-height: 30px;
   text-align: center;
   cursor: pointer;
-  border: 1px solid #eee;
+  border: 1px solid #000;
 }
 
 .navbar ul {
@@ -82,13 +82,13 @@ header .row {
 }
 
 .fixed .navbar ul li a {
-  color: #000;
+  color: #fff;
 }
 
 .navbar ul li a::before {
   content: "";
   height: 2px;
-  background-color: rgb(236, 241, 250);
+  background-color: #000;
   width: 0%;
   position: absolute;
   right: 0px;

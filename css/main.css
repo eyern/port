@@ -126,12 +126,12 @@ a {
   header {
     padding: 15px;
     position: fixed;
-    background-color: rgb(236, 241, 250);
-    border-bottom: 1px solid #eee;
+    background-color: #000;
+    border-bottom: 1px solid #000;
   }
 
   .brand-name .logo {
-    color: #01143e;
+    color: #fff;
   }
 
   .hamburger .fa {
@@ -163,7 +163,7 @@ a {
 
   .navbar ul li a {
     line-height: 42px;
-    color: #01143e;
+    color: #fff;
   }
 
   .navbar ul li a::before {
