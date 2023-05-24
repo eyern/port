@@ -1,5 +1,5 @@
 .blog {
-    background-color: #fff;
+    background-color: #000;
     padding: 100px 0px;
 }
 
@@ -19,7 +19,7 @@
     flex: 0 0 calc(33.33% - 20px);
     max-width: calc(33.33% - 20px);
     border: 1px solid #ddd;
-    background-color: rgb(236, 241, 250);
+    background-color: #000;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
@@ -48,13 +48,13 @@
 
 .blog-info span {
     font-size: 12px;
-    color: #838383;
+    color: #fff;
     display: inline-block;
 
 }
 
 .blog-info span:nth-child(2) {
-    border-left: 1px solid #ddd;
+    border-left: 1px solid #fff;
     padding-left: 8px;
     margin-left: 10px;
 }
@@ -62,7 +62,7 @@
 .blog-box h3 {
     font-size: 22px;
     font-weight: 600;
-    color: #000;
+    color: #fff;
     margin: 0;
     padding: 0 0 10px;
 }

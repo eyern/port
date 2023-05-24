@@ -1,6 +1,6 @@
 .about {
   padding: 100px 15px;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .img {
@@ -24,14 +24,14 @@
   font-size: 25px;
   font-weight: 600;
   margin: 0 0 10px;
-  color: #000;
+  color: #fff;
 }
 
 .text h6 {
   font-size: 18px;
   font-weight: 500;
   margin: 0 0 25px;
-  color: #000;
+  color: #fff;
 }
 
 .text h6 span {
@@ -74,7 +74,7 @@
   font-size: 18px;
   font-weight: 400;
   margin: 0 0 25px;
-  color: #000;
+  color: #fff;
 }
 
 .skills-list {
